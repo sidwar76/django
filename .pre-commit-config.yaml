@@ -1,4 +1,4 @@
-task:
+tasks:
   - repo: https://github.com/PyCQA/isort
     rev: 5.6.4
     hooks:
